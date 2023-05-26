@@ -1,0 +1,3 @@
+Values: [50, 9, 33, 17, 9]
+Weights: [34, 9, 3, 23, 28]
+Knapsack capacity: 38
